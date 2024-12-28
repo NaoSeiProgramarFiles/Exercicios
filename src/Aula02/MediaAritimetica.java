@@ -1,4 +1,4 @@
-package Aula2;
+package Aula02;
 
 import java.util.Scanner;
 
